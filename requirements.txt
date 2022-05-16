@@ -35,7 +35,7 @@ regex
 bs4
 lxml
 spamwatch
-httpx[http2]
+
 wikipedia
 coffeehouse
 PyDictionary==2.0.1
